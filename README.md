@@ -1,7 +1,6 @@
 # Predicting Disease Outcomes
 
-B.Tech (AIML) – Artificial Intelligence in Healthcare (AI4143)  
-Manipal University Jaipur
+AIHC Assignment Case 1
 
 ## Overview
 Classifies patient disease risk from medical history using supervised learning.
